@@ -1,4 +1,8 @@
 <?php
+// NIM      : 250302041
+// NAMA     : FATIMAH AZ ZAHRA
+// PERTEMUAN: 10
+
 require_once "koneksi.php";
 
 $sql = "SELECT * FROM anggota";
